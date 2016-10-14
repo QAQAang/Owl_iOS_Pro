@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>装备类型</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>QQ好友</string>
+		<key>norTitle</key>
+		<string>有</string>
+		<key>selTitle</key>
+		<string>无</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>商 家</string>
+		<key>norTitle</key>
+		<string>个人</string>
+		<key>selTitle</key>
+		<string>企业</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>出售方式</string>
+		<key>norTitle</key>
+		<string>定价</string>
+		<key>selTitle</key>
+		<string>竞价</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>价格(元)</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>在线时间段</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>库存量</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>手机绑定</string>
+		<key>norTitle</key>
+		<string>是</string>
+		<key>selTitle</key>
+		<string>否</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>邮箱绑定</string>
+		<key>norTitle</key>
+		<string>是</string>
+		<key>selTitle</key>
+		<string>否</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>密保卡</string>
+		<key>norTitle</key>
+		<string>有</string>
+		<key>selTitle</key>
+		<string>无</string>
+	</dict>
+</array>
+</plist>
